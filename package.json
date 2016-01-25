@@ -1,0 +1,29 @@
+{
+  "name": "iniparser2",
+  "version": "0.1.0",
+  "description": "Parser for INI configuration files in NodeJS.",
+  "license": "MIT",
+  "repository": "jozefizso/iniparser2",
+  "author": {
+    "name": "Jozef Izso",
+    "email": "jozef.izso@gmail.com",
+    "url": "github.com/jozefizso/iniparser2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.8.0",
+    "xo": "^0.12.1"
+  }
+}
