@@ -21,7 +21,11 @@
   "keywords": [
     ""
   ],
-  "dependencies": {},
+  "dependencies": {
+    "graceful-fs": "^4.1.2",
+    "pify": "^2.3.0",
+    "pinkie-promise": "^2.0.0"
+  },
   "devDependencies": {
     "ava": "^0.8.0",
     "xo": "^0.12.1"
